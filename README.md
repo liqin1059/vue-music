@@ -11,8 +11,6 @@
   <a href="https://github.com/Reactive-Extensions/RxJS"><img src="https://img.shields.io/badge/rxjs-v5.0.2-blue.svg" alt="rxjs"></a>
   <a href="https://github.com/hilongjw/vue-lazyload"><img src="https://img.shields.io/badge/vue--lazyload-v1.0.0--rc7-yellow.svg" alt="vue-lazyload"></a>
 </p>
-<p align="center">查看Demo:<a href="http://sioxas.github.io/">http://sioxas.github.io/</a>,在手机上效果更好，扫一扫体验</p>
-<p align="center"><a href="http://sioxas.github.io/"><img src="http://ww2.sinaimg.cn/large/6ee3e8b3gw1f9xjboxz2tj205i05fjrm.jpg" alt="vue-music"></a></p>
 
 
 ### 实现的功能
