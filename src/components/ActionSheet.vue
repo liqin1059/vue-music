@@ -58,7 +58,6 @@
     width: 100%;
     background-color: #eee;
   }
-
   .vux-actionsheet-cancel:before {
     border-top: none;
   }
